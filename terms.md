@@ -1,3 +1,9 @@
+---
+title: Terms of Service
+layout: default
+permalink: /terms/
+---
+
 # End-User License Agreement & Terms of Service
 
 **Effective date:** 2026-05-05

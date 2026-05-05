@@ -1,3 +1,9 @@
+---
+title: Privacy Policy
+layout: default
+permalink: /privacy/
+---
+
 # Privacy Policy
 
 **Effective date:** 2026-05-05
