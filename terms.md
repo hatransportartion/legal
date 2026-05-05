@@ -9,7 +9,7 @@ permalink: /terms/
 **Effective date:** 2026-05-05
 **Publisher:** Alpha Accounts
 **Governing law:** India
-**Contact:** support@alphaaccounts.app
+**Contact:** sandeep@alphalionlogistics.com
 
 ---
 
@@ -73,7 +73,7 @@ Customer is solely responsible for the following, and Publisher has no obligatio
 
 Customer grants Publisher a limited, non-exclusive, royalty-free license to access, process, transmit, and store Customer Data **solely for the purpose of operating the Service for Customer**. Publisher will not use Customer Data to train machine learning models, sell or share Customer Data with third parties (other than Intuit and Airtable as required to operate the Service), or use Customer Data for any purpose unrelated to operating the Service.
 
-Publisher's handling of personal data within Customer Data is governed by the [Privacy Policy](https://alphaaccounts.app/privacy) (incorporated into these Terms by reference — see Section 16).
+Publisher's handling of personal data within Customer Data is governed by the [Privacy Policy](https://alphalionlogistics.com/privacy) (incorporated into these Terms by reference — see Section 16).
 
 ## 7. Intuit & Airtable Terms
 
@@ -103,7 +103,7 @@ Late payments may accrue interest at the lesser of 1.5% per month or the maximum
 
 **Term.** These Terms begin on the date Customer first accepts them (per Section 1) and continue until terminated as described below.
 
-**Termination by Customer.** Customer may terminate at any time by **disconnecting the Service in QuickBooks → Apps → My Apps → Alpha Accounts → Disconnect**. Customer may also terminate by emailing support@alphaaccounts.app from a verifiable Customer address.
+**Termination by Customer.** Customer may terminate at any time by **disconnecting the Service in QuickBooks → Apps → My Apps → Alpha Accounts → Disconnect**. Customer may also terminate by emailing sandeep@alphalionlogistics.com from a verifiable Customer address.
 
 **Termination by Publisher.** Publisher may terminate or suspend the Service:
 - For Customer's material breach of these Terms (including any restriction in Section 4), with at least 14 days' notice and an opportunity to cure where the breach is curable;
@@ -179,14 +179,14 @@ Customer Data is treated as Customer's Confidential Information and is also gove
 
 ## 16. Privacy
 
-Publisher's collection, use, and disclosure of personal information in connection with the Service is governed by Publisher's Privacy Policy, available at [https://alphaaccounts.app/privacy], which is **incorporated into these Terms by reference**. By using the Service, Customer acknowledges that Customer has reviewed the Privacy Policy.
+Publisher's collection, use, and disclosure of personal information in connection with the Service is governed by Publisher's Privacy Policy, available at [https://alphalionlogistics.com/privacy], which is **incorporated into these Terms by reference**. By using the Service, Customer acknowledges that Customer has reviewed the Privacy Policy.
 
 ## 17. Modifications to Terms
 
 We may update these Terms from time to time. When we make changes:
 
 - The **Effective date** at the top of this document will be updated.
-- For **material changes** — for example, changes to fees, liability, dispute resolution, or restrictions on use — we will **notify Customer's primary contact by email at least 30 days before the changes take effect** and post the updated Terms at [https://alphaaccounts.app/terms].
+- For **material changes** — for example, changes to fees, liability, dispute resolution, or restrictions on use — we will **notify Customer's primary contact by email at least 30 days before the changes take effect** and post the updated Terms at [https://alphalionlogistics.com/terms].
 - For non-material changes (typo corrections, clarifications), the updated Terms take effect when posted.
 
 If Customer does not agree to a material change, Customer's sole remedy is to terminate by disconnecting the Service before the change takes effect. Continued use after the effective date of a change constitutes acceptance.
@@ -201,7 +201,7 @@ If Customer does not agree to a material change, Customer's sole remedy is to te
 
 **Class action waiver.** **The parties agree that any arbitration or court proceeding will be conducted only on an individual basis and not as a class, consolidated, or representative action.** If a court determines this class action waiver is unenforceable in a particular dispute, the arbitration agreement is severable from these Terms with respect to that dispute, and that dispute will be resolved in court — but the waiver remains enforceable for all other disputes.
 
-**Opt-out (where required).** If applicable law gives Customer a right to opt out of arbitration, Customer may do so by emailing support@alphaaccounts.app within 30 days of first accepting these Terms with the subject line "Arbitration Opt-Out."
+**Opt-out (where required).** If applicable law gives Customer a right to opt out of arbitration, Customer may do so by emailing sandeep@alphalionlogistics.com within 30 days of first accepting these Terms with the subject line "Arbitration Opt-Out."
 
 ## 19. General
 
@@ -215,7 +215,7 @@ If Customer does not agree to a material change, Customer's sole remedy is to te
 
 **Force majeure.** Neither party is liable for failure or delay caused by events beyond its reasonable control, including acts of God, natural disasters, war, terrorism, civil unrest, labor disruptions, internet or utility outages, governmental actions, or failures of third-party services on which the Service depends (such as Intuit or Airtable).
 
-**Notices.** Notices to Publisher must be sent to support@alphaaccounts.app and, for legal notices, also by mail to the address in Section 20. Notices to Customer will be sent to the email associated with Customer's account or to the contact email Customer provides.
+**Notices.** Notices to Publisher must be sent to sandeep@alphalionlogistics.com and, for legal notices, also by mail to the address in Section 20. Notices to Customer will be sent to the email associated with Customer's account or to the contact email Customer provides.
 
 **Independent contractors.** The parties are independent contractors. These Terms do not create a partnership, joint venture, agency, or employment relationship.
 
@@ -227,10 +227,10 @@ If Customer does not agree to a material change, Customer's sole remedy is to te
 [Add your registered address before publishing]
 Delhi, India
 
-- **General & support:** support@alphaaccounts.app
-- **Privacy:** privacy@alphaaccounts.app
-- **Legal notices:** legal@alphaaccounts.app
-- **Website:** https://alphaaccounts.app
+- **General & support:** sandeep@alphalionlogistics.com
+- **Privacy:** sandeep@alphalionlogistics.com
+- **Legal notices:** sandeep@alphalionlogistics.com
+- **Website:** https://alphalionlogistics.com
 
 ---
 

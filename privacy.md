@@ -8,8 +8,8 @@ permalink: /privacy/
 
 **Effective date:** 2026-05-05
 **Publisher:** Alpha Accounts
-**Website:** https://alphaaccounts.app
-**Privacy contact:** privacy@alphaaccounts.app
+**Website:** https://alphalionlogistics.com
+**Privacy contact:** sandeep@alphalionlogistics.com
 
 ---
 
@@ -19,7 +19,7 @@ permalink: /privacy/
 - **What we never see.** No bank login credentials, no payroll, no employee SSNs, no tax filings, no payment card numbers, no end-user browsing or analytics. OAuth happens between you and Intuit — your password never touches our servers.
 - **What we actually store.** OAuth tokens (so we can keep the connection alive) and short-lived copies of the transactions we are in the process of syncing. We do not maintain a long-term database of your QuickBooks records on our infrastructure.
 - **Who we share with.** Only Intuit (the source) and Airtable (your chosen destination). We do not sell, rent, trade, or share your data with advertisers, data brokers, or anyone else.
-- **How to leave.** Disconnect anytime in QuickBooks → **Apps → Disconnect**. Your tokens are deleted automatically. Email privacy@alphaaccounts.app to confirm or to request deletion of any remaining records.
+- **How to leave.** Disconnect anytime in QuickBooks → **Apps → Disconnect**. Your tokens are deleted automatically. Email sandeep@alphalionlogistics.com to confirm or to request deletion of any remaining records.
 
 ---
 
@@ -116,7 +116,7 @@ No system is perfectly secure, but we apply industry-standard safeguards proport
 - **Transaction data in transit.** Transaction records exist on our servers only briefly while a sync is in flight. We do not maintain a persistent database of your QuickBooks transactions on our infrastructure.
 - **Airtable.** Data written to your Airtable base is retained according to your Airtable workspace settings — we have no control over and do not access that data after writing it.
 - **Logs.** Operational logs are retained for 30 days and then automatically purged.
-- **Email correspondence.** Emails you send to privacy@alphaaccounts.app are retained for as long as needed to handle your request and to comply with our recordkeeping obligations.
+- **Email correspondence.** Emails you send to sandeep@alphalionlogistics.com are retained for as long as needed to handle your request and to comply with our recordkeeping obligations.
 
 ## 9. Sharing with third parties
 
@@ -140,7 +140,7 @@ If you are located in the European Economic Area, the United Kingdom, or Switzer
 **For everyone — operational rights:**
 
 - **Disconnect at any time.** In QuickBooks, go to **Apps → My Apps → Alpha Accounts → Disconnect**. This revokes our OAuth grant. Your tokens are invalidated immediately at Intuit and deleted from our systems within 30 days.
-- **Request deletion.** Email privacy@alphaaccounts.app from the email associated with your QuickBooks admin account. We will confirm receipt within 5 business days and complete deletion of any retained data within 30 days, unless we are legally required to keep specific records longer.
+- **Request deletion.** Email sandeep@alphalionlogistics.com from the email associated with your QuickBooks admin account. We will confirm receipt within 5 business days and complete deletion of any retained data within 30 days, unless we are legally required to keep specific records longer.
 
 **For users covered by GDPR (EU / UK / EEA):**
 
@@ -154,7 +154,7 @@ You have the right to:
 - **Withdraw consent** at any time (which you do operationally by disconnecting)
 - **Lodge a complaint** with your supervisory authority
 
-To exercise any of these rights, email privacy@alphaaccounts.app. We will respond within 30 days.
+To exercise any of these rights, email sandeep@alphalionlogistics.com. We will respond within 30 days.
 
 **For California residents (CCPA/CPRA):**
 
@@ -162,7 +162,7 @@ You have the right to know, delete, correct, and limit the use of sensitive pers
 
 ## 12. Children's privacy
 
-The Service is a B2B accounting integration. It is not directed at children under 16, we do not knowingly collect personal information from children, and we have no expectation that children will use the Service. If you believe a child has somehow provided personal information to us, contact privacy@alphaaccounts.app and we will delete it.
+The Service is a B2B accounting integration. It is not directed at children under 16, we do not knowingly collect personal information from children, and we have no expectation that children will use the Service. If you believe a child has somehow provided personal information to us, contact sandeep@alphalionlogistics.com and we will delete it.
 
 ## 13. Cookies and tracking
 
@@ -197,7 +197,7 @@ A short changelog will be appended to the bottom of this page so you can see wha
 
 For privacy questions, requests, or complaints:
 
-- **Email:** privacy@alphaaccounts.app
+- **Email:** sandeep@alphalionlogistics.com
 - **Postal mail:** Alpha Accounts, [Add your registered address before publishing]
 
 We aim to respond to all privacy inquiries within 5 business days, and to formal rights requests within 30 days as required by law.

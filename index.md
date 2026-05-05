@@ -8,4 +8,4 @@ layout: default
 - [Privacy Policy](./privacy)
 - [Terms of Service](./terms)
 
-For privacy questions: <privacy@alphaaccounts.app>
+For privacy questions: <sandeep@alphalionlogistics.com>
